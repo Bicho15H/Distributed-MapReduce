@@ -4,6 +4,7 @@ This project implements a **word count MapReduce** on distributed machines, buil
 
 ## Folder Structure
 
+```text
 .
 ├── dataset/            # Folder to hold dataset files for word count
 ├── graphs/             # Graphs generated after running draw_graphs.py
@@ -14,6 +15,7 @@ This project implements a **word count MapReduce** on distributed machines, buil
 ├── README.md           # Readme
 ├── run.sh              # Bash script to deploy and run the experiment end-to-end
 └── Server.py           # Server script run on each machine to perform the MapReduce computation
+```
 
 ## How it Works
 
