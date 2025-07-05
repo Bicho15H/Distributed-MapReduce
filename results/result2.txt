@@ -1,0 +1,15 @@
+Time for sending node info: 4 ms.
+Time for SPLIT: 49705 ms.
+Time for SHUFFLE: 14634 ms.
+Time for SYNCHRONIZE: 6558 ms.
+Time for GROUP: 1589 ms.
+Time for REDUCE: 1859 ms.
+Time for RANGE: 41 ms.
+Time for SHUFFLE2: 1331 ms.
+Time for SYNCHRONIZE2: 146 ms.
+Time for GROUP2: 18 ms.
+All processes are done.
+Time for shuffle: 22670 ms.
+Time for computation: 53171 ms.
+Time for controller communication: 45 ms.
+Time total: 75888 ms.
